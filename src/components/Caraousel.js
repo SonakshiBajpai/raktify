@@ -2,23 +2,24 @@ import React, { useState, useEffect } from 'react';
 
 const images = [
   {
-    src: 'https://emeritus.org/in/wp-content/uploads/sites/3/2022/03/What-is-Financial-Management.jpg.optimal.jpg',
+    src: '1.png',
     alt: 'Financial Management',
   },
   {
-    src: 'https://marvel-b1-cdn.bc0a.com/f00000000180208/www-rocklandtrust-com.editor.banno.com/assets/files/GufEoD4N/three-financial-considerations-blended-families-header-banner.jpg',
+    src: '2.png',
     alt: 'Image 2',
   },
   {
-    src: 'https://masandpas.com/wp-content/uploads/2018/11/saving-money-tips-for-saving-money-family-savings-4.jpg',
+    src: '3.png',
+    alt: 'Financial Management ',
     alt: 'Image 3',
   },
   {
-    src: 'https://cdn.whatmomslove.com/wp-content/uploads/2021/01/FEATURED-how-to-save-money-while-raising-family.png',
+    src: '4.png',
     alt: 'Image 4',
   },
   {
-    src: 'https://www.shutterstock.com/image-photo/future-financial-technology-interface-graph-260nw-1504919225.jpg',
+    src: '5.png',
     alt: 'Image 5',
   },
 ];

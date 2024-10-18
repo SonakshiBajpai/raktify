@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-800 text-gray-200 body-font">
+    <footer className="bg-gray-800 text-gray-200 body-font mt-0">
       <div className="container px-5 py-8 mx-auto flex items-center justify-between">
         <div className="flex flex-col text-left">
           <p className="text-sm">
@@ -12,7 +12,7 @@ const Footer = () => {
             AMFI Registered Mutual Fund Distributor | ARN-82992 | Initial Registration: 21 July 2011 | Current Validity: 20 July 2026
           </p>
           <p className="text-xs mt-2">
-            Grievance Officer: <span className="text-red-500">Rachit</span>, Phone: <a href="tel:+919839111539" className="text-blue-400">0512-2304044</a>, Email: <a href="mailto:alok@bodevision.org" className="text-blue-400">rachit_portfolio@yahoo.com</a>
+            Grievance Officer: <span className="text-red-500">Rachit</span>, Phone: <a href="tel:+919839111539" className="text-blue-400">0512-2304044</a>, Email: <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-400">rachit_portfolio@yahoo.com</a>
           </p>
         </div>
         
@@ -21,7 +21,7 @@ const Footer = () => {
             <a href="#" className="hover:text-red-500">Disclaimer</a> | <a href="#" className="hover:text-red-500">Disclosure</a> | <a href="#" className="hover:text-red-500">Privacy Policy</a> | <a href="#" className="hover:text-red-500">Terms & Conditions</a>
           </p>
           <p className="text-xs">
-            <span className="text-blue-400">0512-2304044</span> | <a href="mailto:customercare@bodevision.org" className="text-blue-400 hover:underline">rachit_portfolio@yahoo.com</a>
+            <span className="text-blue-400">0512-2304044</span> | <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-400 hover:underline">rachit_portfolio@yahoo.com</a>
           </p>
         </div>
       </div>
