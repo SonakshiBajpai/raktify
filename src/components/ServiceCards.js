@@ -40,32 +40,32 @@ const serviceData = [
   {
     title: 'Mutual Funds',
     description: 'A mutual fund is simply a financial intermediary...',
-    icon: 'http://www.rachitconsultants.com/images/privateWealthManagement.png',
+    icon: '1h.png',
   },
   {
     title: 'Financial Planning',
     description: 'We have a proven and unique approach in providing our services...',
-    icon: 'http://www.rachitconsultants.com/images/familyFinancialPlanning.png',
+    icon: '2h.png',
   },
   {
     title: 'Insurance',
     description: 'Insurance is one of the most important financial topics...',
-    icon: 'http://www.rachitconsultants.com/images/familyProtectionPlanning.png',
+    icon: '3h.png',
   },
   {
     title: 'SIP',
     description: 'This is a simple strategy for accumulating wealth...',
-    icon: 'http://www.rachitconsultants.com/images/realestate.png',
+    icon: '4h.png',
   },
   {
     title: 'Financial Calculators',
     description: 'Goal Calculator, Education Calculator...',
-    icon: 'http://www.rachitconsultants.com/images/loanMortgage.png',
+    icon: '5h.png',
   },
   {
     title: 'Tax Planning & Advisory',
     description: 'We have a team of tax professionals providing advice...',
-    icon: 'http://www.rachitconsultants.com/images/taxPlanningAdvisory.png',
+    icon: '6h.png',
   },
 ];
 

@@ -18,7 +18,7 @@ const HomePanel = () => {
           </p>
           <p className="text-gray-200 mb-6">
             We have more than a decade of experience in the financial services sector. We offer technology-based services for our clients to effectively monitor their portfolio and help...{" "}
-            <a href="#" className="text-yellow-400 font-semibold hover:underline">
+            <a href="/about" className="text-yellow-400 font-semibold hover:underline">
               Read More
             </a>
           </p>
@@ -34,7 +34,7 @@ const HomePanel = () => {
               Take some time and meet Our Team.
             </p>
             <a
-              href="#"
+              href="/contact"
               className="inline-block bg-red-600 text-white font-semibold py-2 px-6 rounded-full shadow hover:bg-red-700 transition duration-300"
             >
               Meet Now!
