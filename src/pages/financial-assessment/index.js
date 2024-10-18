@@ -138,7 +138,6 @@ const InvestmentPage = () => {
             <ul>
               <li>Company Fixed Deposits offer comparatively higher returns than banks.</li>
               <li>You can choose how frequently you want to receive your interest payments.</li>
-             ```javascript
               <li>Company Fixed Deposits are non-transferable.</li>
               <li>Premature encashment of deposit is available any time subject to payment of prescribed penalty.</li>
             </ul>
