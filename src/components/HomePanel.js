@@ -8,13 +8,13 @@ const HomePanel = () => {
         {/* Left Section: Image and Text */}
         <div className="md:w-1/2 px-6">
           <h1 className="text-4xl font-bold mb-6">
-            Rachit Consultants
+            Rachit Financial Services
           </h1>
           <p className="text-gray-200 mb-6">
             In an era of constant changing and volatile financial market, investors need qualified, trained, and unbiased professionals to assist them in achieving their short-term and long-term investment goals.
           </p>
           <p className="text-gray-200 mb-6">
-            At Rachit Consultants, our single utmost aim is to assist clients with dedication and integrity so that we exceed their expectations and build enduring relationships.
+            At Rachit Financial Servies, our single utmost aim is to assist clients with dedication and integrity so that we exceed their expectations and build enduring relationships.
           </p>
           <p className="text-gray-200 mb-6">
             We have more than a decade of experience in the financial services sector. We offer technology-based services for our clients to effectively monitor their portfolio and help...{" "}

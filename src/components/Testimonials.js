@@ -3,15 +3,15 @@ import { FaQuoteLeft } from 'react-icons/fa';
 
 const testimonialsData = [
   {
-    quote: "Unlike most IFAs, Rachit Consultants is not sales motivated. It is a refreshing change to deal with someone not motivated by selling products which do not necessarily meet my needs. Their proactive approach to financial assessment has already put me in a much stronger position. ",
+    quote: "Unlike most IFAs, Rachit Financial Services is not sales motivated. It is a refreshing change to deal with someone not motivated by selling products which do not necessarily meet my needs. Their proactive approach to financial assessment has already put me in a much stronger position. ",
     name: "Sahil Saluja, Entrepreneur"
   },
   {
-    quote: "Rachit Consultants has helped me tremendously in managing my finances efficiently. Their personalized approach is what sets them apart from others.",
+    quote: "Rachit Financial Services has helped me tremendously in managing my finances efficiently. Their personalized approach is what sets them apart from others.",
     name: "Priya Mehra, Business Owner"
   },
   {
-    quote: "The level of professionalism and integrity exhibited by Rachit Consultants is commendable. I highly recommend their services.",
+    quote: "The level of professionalism and integrity exhibited by Rachit Financial Servies is commendable. I highly recommend their services.",
     name: "Amit Singh, Software Engineer"
   },
   {

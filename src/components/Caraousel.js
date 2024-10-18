@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 const images = [
   {
@@ -34,6 +34,14 @@ function Carousel() {
     setCurrentIndex((prevIndex) => (prevIndex - 1 + images.length) % images.length);
   };
 
+  useEffect(() => {
+    const interval = setInterval(() => {
+      nextSlide();
+    }, 3000); // Change image every 3 seconds
+
+    return () => clearInterval(interval); // Cleanup on unmount
+  }, []); // Empty dependency array ensures it runs once on mount
+
   return (
     <div className="relative w-full overflow-hidden">
       <div className="flex transition-transform duration-700" style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
@@ -50,14 +58,14 @@ function Carousel() {
       {/* Slider controls */}
       <button
         type="button"
-        className="absolute top-1/2 left-4 z-30 transform -translate-y-1/2 bg-white rounded-full p-2 shadow-lg hover:bg-gray-200 transition"
+        className="absolute top-1/2 left-4 z-30 transform -translate-y-1/2 w-10 h-10 bg-white rounded-full p-2 shadow-lg hover:bg-gray-200 transition"
         onClick={prevSlide}
       >
         &lt;
       </button>
       <button
         type="button"
-        className="absolute top-1/2 right-4 z-30 transform -translate-y-1/2 bg-white rounded-full p-2 shadow-lg hover:bg-gray-200 transition"
+        className="absolute top-1/2 right-4 z-30 transform -translate-y-1/2 w-10 h-10 bg-white rounded-full p-2 shadow-lg hover:bg-gray-200 transition"
         onClick={nextSlide}
       >
         &gt;
