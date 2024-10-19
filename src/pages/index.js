@@ -4,6 +4,7 @@ import Carousel from "@/components/Caraousel";
 import ServiceCards from "@/components/ServiceCards";
 import HomePanel from "@/components/HomePanel";
 import Testimonials from "@/components/Testimonials";
+import DownloadApp from "@/components/Download";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -23,6 +24,7 @@ export default function Home() {
     <ServiceCards/>
     <HomePanel/>
     <Testimonials/>
+    <DownloadApp/>
     </>
   )
 }
