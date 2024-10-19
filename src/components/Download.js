@@ -2,7 +2,7 @@ import React from 'react';
 
 const DownloadApp = () => {
   return (
-    <div className="flex justify-center items-center space-x-12 my-12">
+    <div className="flex flex-col md:flex-row justify-center items-center md:space-x-12 space-y-8 md:space-y-0 my-12">
       {/* App Store Image */}
       <a
         href="https://apps.apple.com/in/app/rachit-finserv/id1323948069"
@@ -10,9 +10,9 @@ const DownloadApp = () => {
         rel="noopener noreferrer"
       >
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" // Correct direct URL for App Store badge
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png"
           alt="Download on the App Store"
-          className="h-16 md:h-20" // Adjust size as needed
+          className="h-16 w-auto md:h-20" // Fixed height for consistency
         />
       </a>
 
@@ -23,9 +23,9 @@ const DownloadApp = () => {
         rel="noopener noreferrer"
       >
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" // Correct direct URL for Play Store badge
+          src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
           alt="Get it on Google Play"
-          className="h-16 md:h-20" // Adjust size as needed
+          className="h-16 w-auto md:h-20" // Fixed height for consistency
         />
       </a>
     </div>
