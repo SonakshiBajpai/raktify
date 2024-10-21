@@ -47,7 +47,7 @@ export default function ContactForm() {
             KANPUR - 208 001
           </p>
           <p className="mt-4">
-            <strong>Mobile:</strong> 0512-2304044
+            <strong>Mobile:</strong> 6306696224
           </p>
           <p>
             <strong>Email:</strong>
