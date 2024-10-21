@@ -9,19 +9,19 @@ const Footer = () => {
             <span className="text-red-500 font-semibold">Risk Factors:</span> Investments in Mutual Funds are subject to Market Risks. Read all scheme-related documents carefully before investing. There is no guarantee that the investment objectives of any suggested scheme will be achieved. All investors should evaluate the cost structures before investing.
           </p>
           <p className="text-xs mt-4">
-            AMFI Registered Mutual Fund Distributor | ARN-82992 | Initial Registration: 21 July 2011 | Current Validity: 20 July 2026
+            AMFI Registered Mutual Fund Distributor | ARN-12371 | Initial Registration: 20 October 2020 | Current Validity: 31 March 2025
           </p>
           <p className="text-xs mt-2">
-            Grievance Officer: <span className="text-red-500">Rachit</span>, Phone: <a href="tel:+919839111539" className="text-blue-400">0512-2304044</a>, Email: <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-400">rachit_portfolio@yahoo.com</a>
+            Grievance Officer: <span className="text-red-500">Rachit</span>, Phone: <a href="tel:+919839111539" className="text-blue-400">6306696224</a>, Email: <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-400">rachit_portfolio@yahoo.com</a>
           </p>
         </div>
         
         <div className="flex flex-col text-sm">
           <p className="text-xs mb-2">
-            <a href="#" className="hover:text-red-500">Disclaimer</a> | <a href="#" className="hover:text-red-500">Disclosure</a> | <a href="#" className="hover:text-red-500">Privacy Policy</a> | <a href="#" className="hover:text-red-500">Terms & Conditions</a>
+            <a href="disclaimer" className="hover:text-red-500">Disclaimer</a> | <a href="disclosure" className="hover:text-red-500">Disclosure</a> | <a href="privacy" className="hover:text-red-500">Privacy Policy</a> | <a href="tnc" className="hover:text-red-500">Terms & Conditions</a>
           </p>
           <p className="text-xs">
-            <span className="text-blue-400">0512-2304044</span> | <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-400 hover:underline">rachit_portfolio@yahoo.com</a>
+            <span className="text-blue-400">6306696224</span> | <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-400 hover:underline">rachit_portfolio@yahoo.com</a>
           </p>
         </div>
       </div>
