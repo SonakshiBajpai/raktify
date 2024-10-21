@@ -52,7 +52,7 @@ export default function ContactForm() {
           <p>
             <strong>Email:</strong>
             <a href="mailto:rachit_portfolio@yahoo.com" className="text-blue-500">
-              rachit_portfolio@yahoo.com
+               rachit_portfolio@yahoo.com
             </a>
           </p>
         </div>
