@@ -38,34 +38,34 @@ const ServiceCards = () => {
 // Data for each service
 const serviceData = [
   {
-    title: 'Mutual Funds',
-    description: 'A mutual fund is simply a financial intermediary...',
-    icon: '1h.png',
+    title: 'Inclusive Community',
+    description: '',
+    icon: 'SC1.png',
   },
   {
-    title: 'Financial Planning',
-    description: 'We have a proven and unique approach in providing our services...',
-    icon: '2h.png',
+    title: 'Blood Mascot',
+    description: '',
+    icon: 'SC2.png',
   },
   {
-    title: 'Insurance',
-    description: 'Insurance is one of the most important financial topics...',
-    icon: '3h.png',
+    title: 'Live Blood Requests',
+    description: '',
+    icon: 'SC3.png',
   },
   {
-    title: 'SIP',
-    description: 'This is a simple strategy for accumulating wealth...',
-    icon: '4h.png',
+    title: 'Badges and LeaderBoards',
+    description: '',
+    icon: 'SC4.png',
   },
   {
-    title: 'Financial Calculators',
-    description: 'Goal Calculator, Education Calculator...',
-    icon: '5h.png',
+    title: 'Advanced Slot booking system',
+    description: '',
+    icon: 'SC5.png',
   },
   {
-    title: 'Tax Planning & Advisory',
-    description: 'We have a team of tax professionals providing advice...',
-    icon: '6h.png',
+    title: 'Donor Health Tracker',
+    description: '',
+    icon: 'SC6.png',
   },
 ];
 

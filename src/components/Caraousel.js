@@ -2,24 +2,24 @@ import React, { useState, useEffect } from 'react';
 
 const images = [
   {
-    src: '1.png',
+    src: 'image1.png',
     alt: 'Financial Management',
   },
   {
-    src: '2.png',
+    src: 'image2.png',
     alt: 'Image 2',
   },
   {
-    src: '3.png',
+    src: 'image3.png',
     alt: 'Financial Management ',
     alt: 'Image 3',
   },
   {
-    src: '4.png',
+    src: 'image4.png',
     alt: 'Image 4',
   },
   {
-    src: '5.png',
+    src: 'image5.png',
     alt: 'Image 5',
   },
 ];

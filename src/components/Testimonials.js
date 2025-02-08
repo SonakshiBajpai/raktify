@@ -3,24 +3,24 @@ import { FaQuoteLeft } from 'react-icons/fa';
 
 const testimonialsData = [
   {
-    quote: "Unlike most IFAs, Rachit Financial Services is not sales motivated. It is a refreshing change to deal with someone not motivated by selling products which do not necessarily meet my needs. Their proactive approach to financial assessment has already put me in a much stronger position.",
-    name: "Sahil Saluja, Entrepreneur"
+    quote: "The Blood Mascot is so adorable, and the app's interactive design makes the process enjoyable. Raktify makes giving back feel rewarding!",
+    name: "Sahil Saluja, Bangalore"
   },
   {
-    quote: "Rachit Financial Services has helped me tremendously in managing my finances efficiently. Their personalized approach is what sets them apart from others.",
-    name: "Priya Mehra, Business Owner"
+    quote: "As a regular donor, Raktify’s health tracker is a game-changer. It keeps me updated about my health and donation history. Highly recommend it!",
+    name: "Priya Mehra,Mumbai"
   },
   {
-    quote: "The level of professionalism and integrity exhibited by Rachit Financial Services is commendable. I highly recommend their services.",
-    name: "Amit Singh, Software Engineer"
+    quote: "Thanks to Raktify, I found donors for my father within hours. The community here is amazing and super responsive!",
+    name: "Amit Singh,Kanpur"
   },
   {
-    quote: "A truly trustworthy and reliable financial consulting service. They’ve exceeded my expectations in every way.",
-    name: "Neha Verma, Marketing Manager"
+    quote: "The badges and leaderboards motivated me to donate more. Competing with friends while helping others? Brilliant idea!",
+    name: "Karan Singh, Jaipur"
   },
   {
-    quote: "Great team, highly professional and very friendly. They helped me secure my future in ways I hadn't imagined.",
-    name: "Rahul Kumar, Doctor"
+    quote: "The slot booking system is seamless! I scheduled my donation in minutes and even got a badge for my contribution. Love the gamified experience!",
+    name: "Rahul Kumar,Delhi"
   }
 ];
 

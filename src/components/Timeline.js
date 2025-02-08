@@ -3,32 +3,32 @@ import React, { useState, useEffect } from 'react';
 const Timeline = () => {
   const steps = [
     {
-      bubble: 'Investment Research',
-      text: 'In order to deliver top-notch services, we carry out extensive investment research on fund houses and their schemes. We also closely examine intangibles such as investment philosophy and management quality of the asset management companies.',
+      bubble: 'Vision',
+      text: 'Ensuring universal access to safe blood through AI-driven efficiency and engagement.',
     },
     {
-      bubble: 'Risk Profiling',
-      text: 'At Rachit Financial Services, we regard risk profiling as an enigma, and one of the cornerstones of our profession. We identify each client’s unique financial personality, life stage, and risk horizon to make informed investment choices.',
+      bubble: 'Mission',
+      text: 'Empowering donors, optimizing logistics, and integrating technology for a seamless donation process',
     },
     {
-      bubble: 'Fund Analysis',
-      text: 'Our analysts use several tools to judge the performance of mutual fund schemes. Each scheme’s risk-return profile, sector weights, diversification strategy, and consistency in performance is monitored closely before making decisions.',
+      bubble: 'Core Values',
+      text: ' Innovation, Inclusivity, Transparency, and Ethical Engagement.',
     },
     {
-      bubble: 'Fund Allocation',
-      text: 'Once we understand your financial needs, we allocate funds into various mutual fund schemes tailored to your investment goals, regularly monitoring and adjusting the portfolio to reflect market conditions and your life changes.',
+      bubble: 'Tech-Driven Approach',
+      text: 'Leveraging AI, IoT, and real-time tracking to reduce wastage and enhance supply chain management.',
     },
     {
-      bubble: 'Portfolio Construction',
-      text: 'We design portfolios aligned with your financial personality and objectives, treating each portfolio with utmost care and ensuring that it is customized to meet your needs, beyond just data and statistics.',
+      bubble: 'Public-Private Collaboration',
+      text: 'Partnering with healthcare institutions, government bodies, and corporate sectors for large-scale adoption',
     },
     {
-      bubble: 'Portfolio Review',
-      text: 'We review your portfolio regularly to ensure it is in line with your evolving financial needs. We stay in touch to make adjustments as your life situation or the financial market changes.',
+      bubble: 'User-Centric Experience',
+      text: 'Creating an engaging and rewarding donor journey through gamification, incentives, and awareness programs.',
     },
     {
-      bubble: 'Rebalancing Portfolio',
-      text: 'To maximize your returns while minimizing risk, we rebalance your portfolio whenever market conditions change or when your financial goals evolve, ensuring that your investment journey stays on track.',
+      bubble: 'Future Roadmap',
+      text: 'Expanding into organ and plasma donation, policy integration, and global AI-powered healthcare logistics.',
     },
   ];
 

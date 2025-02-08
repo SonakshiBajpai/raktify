@@ -19,8 +19,8 @@ const Navbar = () => {
         {/* Logo */}
         <a href="/" className="flex title-font font-medium items-center text-gray-900">
           <img
-            className="w-48 h-12 object-contain"
-            src="./rachitlogo.png"
+            className="w-48 h-24 object-contain"
+            src="./raktify.png"
             alt="Rachit Financial Services logo"
           />
         </a>
@@ -67,20 +67,9 @@ const Navbar = () => {
                   href="/financial-assessment"
                   className="block px-4 py-2 text-gray-700 hover:bg-blue-100 hover:text-blue-600"
                 >
-                  Financial Assessment
+                  Schemes
                 </a>
-                <a
-                  href="/tax-solutions"
-                  className="block px-4 py-2 text-gray-700 hover:bg-blue-100 hover:text-blue-600"
-                >
-                  Tax Solutions
-                </a>
-                <a
-                  href="/insurance-solutions"
-                  className="block px-4 py-2 text-gray-700 hover:bg-blue-100 hover:text-blue-600"
-                >
-                  Insurance Solutions
-                </a>
+              
               </div>
             )}
           </div>
